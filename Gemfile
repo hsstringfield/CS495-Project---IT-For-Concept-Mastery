@@ -15,7 +15,7 @@ gem "importmap-rails", "1.1.1"
 gem "turbo-rails", "1.3.0"
 gem "stimulus-rails", "1.1.0"
 gem "jbuilder",        "2.11.5"
-gem "puma",            "5.6.4"
+gem "puma", "5.6.9"
 gem "bootsnap",        "1.12.0", require: false
 gem "jquery-rails",    "4.2.2"
 
